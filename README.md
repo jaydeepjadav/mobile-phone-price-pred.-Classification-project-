@@ -66,3 +66,25 @@ From this chart we can easily conclude shuttles are not widely used in all citie
 And in this last chart we can get a brief idea that in which month of the year how much tickets were sold or which months are best months for tickets market.
 ![image](https://github.com/jaydeepjadav/nairobi-public-transport-Regression-project-/assets/120647862/fcbba85a-4568-4698-aa3a-c05767ae38ee)
 
+### Conclusion
+Conclusion of EDA:
+
+Kisii is most 'travelled from' place
+In Kisii and Kijauri shuttle are used more than buses Where as in rest of the origin place buses are dominating the market.
+Most of the tickets were sold between November and May.
+
+Conclusion of Model implementation:
+
+I tried 5 models:
+
+Linear Regression
+
+Ridge Regression
+
+Lasso Regression & tuned hyperparameter with GridSearch CV
+
+Random Forest Regression & tuned hyperparameter with GridSearch CV
+
+XGBoost Regression & tuned hyperparameter with GridSearch CV
+
+And out of all hyperparameters tuned XGBoost Regressor algorithm gives the best results with an accuracy of around 84%.
