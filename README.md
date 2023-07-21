@@ -47,7 +47,9 @@ I have made project on Public transportation system of Nairobi on the basis of p
 link:-https://drive.google.com/drive/folders/1RhQK3OuurdDXt4EqO6i5XMV7VeitvwsA
 
 ### Graphs
+These are few of the charts from this project. In the chart below we can see the difference in the ratio of shuttle and bus, both of them have near about same proportions with respect to  tickets sold.
 ![image](https://github.com/jaydeepjadav/nairobi-public-transport-Regression-project-/assets/120647862/14469b1a-c93a-4719-9da3-ed2c8ff1539a)
+
 
 ![image](https://github.com/jaydeepjadav/nairobi-public-transport-Regression-project-/assets/120647862/c845a3a6-34ec-4139-b7ce-1db934d5a4b5)
 ![image](https://github.com/jaydeepjadav/nairobi-public-transport-Regression-project-/assets/120647862/66d957bb-a60d-4f6d-a5b8-2603f592c734)
