@@ -70,7 +70,9 @@ And in this last chart we can get a brief idea that in which month of the year h
 Conclusion of EDA:
 
 Kisii is most 'travelled from' place
+
 In Kisii and Kijauri shuttle are used more than buses Where as in rest of the origin place buses are dominating the market.
+
 Most of the tickets were sold between November and May.
 
 Conclusion of Model implementation:
