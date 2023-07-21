@@ -57,9 +57,12 @@ With next chart we get idea that how much public transport is active in which ci
 ![image](https://github.com/jaydeepjadav/nairobi-public-transport-Regression-project-/assets/120647862/c845a3a6-34ec-4139-b7ce-1db934d5a4b5)
 
 
-
+From the above charts we got the idea which type of transport is used how much and second which cities have seen most no. Of tickets sold. But from the next chart we can have a more detailed understanding of which type of transport is mostly used in which city.
+From this chart we can easily conclude shuttles are not widely used in all cities but only in a few places, for example- Kisii have sold most number of tickets amongst all cities but of shuttles and due to that we can see buses and shuttles have near about the same proportion in the ticket market. From this we can say that Kisii alone is almost manipulating the charts. Whereas proportion of bus tickets are distributed between all other cities.
 
 ![image](https://github.com/jaydeepjadav/nairobi-public-transport-Regression-project-/assets/120647862/66d957bb-a60d-4f6d-a5b8-2603f592c734)
 
+
+And in this last chart we can get a brief idea that in which month of the year how much tickets were sold or which months are best months for tickets market.
 ![image](https://github.com/jaydeepjadav/nairobi-public-transport-Regression-project-/assets/120647862/fcbba85a-4568-4698-aa3a-c05767ae38ee)
 
