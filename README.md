@@ -71,6 +71,7 @@ Conclusion of EDA:
 
 Kisii is most 'travelled from' place
 
+
 In Kisii and Kijauri shuttle are used more than buses Where as in rest of the origin place buses are dominating the market.
 
 Most of the tickets were sold between November and May.
