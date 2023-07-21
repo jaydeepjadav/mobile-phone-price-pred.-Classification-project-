@@ -52,9 +52,13 @@ These are few of the charts from this project. In the chart below we can see the
 ![image](https://github.com/jaydeepjadav/nairobi-public-transport-Regression-project-/assets/120647862/14469b1a-c93a-4719-9da3-ed2c8ff1539a)
 
 
-With next chart we get idea that how much public transport is active in which city in terms of tickets sold Kisii, Rango, Kijauri have most of the market 
+With next chart we get idea that how much public transport is active in which city in terms of tickets sold. Kisii, Rango, Kijauri have most of the market, that is most no. public transport users travel to Nairobi are from these cities and even among them Kisii have exponentially larger crowd than any other origin.
 
 ![image](https://github.com/jaydeepjadav/nairobi-public-transport-Regression-project-/assets/120647862/c845a3a6-34ec-4139-b7ce-1db934d5a4b5)
+
+
+
+
 ![image](https://github.com/jaydeepjadav/nairobi-public-transport-Regression-project-/assets/120647862/66d957bb-a60d-4f6d-a5b8-2603f592c734)
 
 ![image](https://github.com/jaydeepjadav/nairobi-public-transport-Regression-project-/assets/120647862/fcbba85a-4568-4698-aa3a-c05767ae38ee)
